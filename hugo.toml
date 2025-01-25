@@ -1,6 +1,6 @@
-baseURL = "https://saasify-demo.chaoming.li/"
+baseURL = "https://iro-dream.github.io"
 languageCode = "en-us"
-title = "Saasify"
+title = "Iro Dream"
 
 # Theme Config
 theme = "../.."
@@ -27,7 +27,7 @@ paginatePath = "page"
 [params]
   description = ""
   author = "Chaoming Li"
-  logo = "/images/logo.svg"
+  logo = "/images/logo.jpg"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -48,12 +48,12 @@ paginatePath = "page"
   
   # Social Media Links
   [params.social]
-    linkedin = "https://linkedin.com/in/chaomingli"
-    twitter = "https://twitter.com/lichaoming"
-    youtube = "https://youtube.com/@chaomingli"
-    facebook = "https://facebook.com/lichaoming"
-    instagram = "https://instagram.com/lichaoming"
-    github = "https://github.com/chaoming"
+#    linkedin = "https://linkedin.com/in/chaomingli"
+#    twitter = "https://twitter.com/lichaoming"
+    youtube = "https://www.youtube.com/@iro_dream"
+#    facebook = "https://facebook.com/lichaoming"
+#    instagram = "https://instagram.com/lichaoming"
+    github = "https://github.com/iro-dream"
   
   # Footer Configuration
   [params.footer]
@@ -68,7 +68,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "/images/logo.jpg"
     
     # Menu configuration
     [params.header.menu]
@@ -103,7 +103,7 @@ paginatePath = "page"
   [params.blog]
     enable = true
     title = "Latest Articles"
-    subtitle = "Learn more about web development and best practices"
+    subtitle = "Learn more about us"
     
     # Blog CTA configuration
     [params.blog.cta]
