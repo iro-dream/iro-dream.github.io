@@ -47,6 +47,7 @@ weight = 2
 
 [params]
 # theme_overrides = "css/overrides.css"
+forceHTTPS = true
 aboutPageURL = "blog"
 contactLink = "contact"
 priceLink = "pricing"
