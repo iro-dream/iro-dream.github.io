@@ -1,4 +1,4 @@
-baseURL = 'https://iro-dream.github.io'
+baseURL = 'https://iro-dream.com'
 languageCode = 'en-us'
 pagination.pagerSize = 6
 theme = "coHub"
