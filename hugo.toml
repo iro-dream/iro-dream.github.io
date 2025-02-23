@@ -7,7 +7,7 @@ title = 'Iro Dream'
 
 # Main Menu
 [[menu.Main]]
-name = "Exhibition"
+name = "Feature"
 url = "#gallery"
 weight = 1
 [[menu.Main]]
