@@ -11,7 +11,7 @@ name = "Feature"
 url = "#gallery"
 weight = 1
 [[menu.Main]]
-name = "Service"
+name = "Services"
 url = "#service"
 weight = 1
 [[menu.Main]]
