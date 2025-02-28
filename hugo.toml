@@ -47,7 +47,7 @@ forceHTTPS = true
 aboutPageURL = "blog"
 contactLink = "contact"
 priceLink = "pricing"
-copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
+copyright = "© {year} iRO DREAM </a>"
 fabFormURL = "https://fabform.io/f/u00kv3-"
 googleAnalytics = "G-JZ95FEWF9K"
 logo = "images/logo_top.png"
