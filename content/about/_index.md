@@ -2,15 +2,14 @@
 title: "About"
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
-        Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
+        会社紹介
 sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
 ---
-## This Is Our Story.
+## 代表挨拶
 
-We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
-ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
-financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes
-you into new exciting spaces.
+イロドリームは、日本の素晴らしい商品・サービスを世界へ届けること、そしてお客様の信頼を得てお客様と共に栄えることを使命として設立した会社です。
+
+社名は、お客様、一緒に働く仲間の「夢を夢で終わらせず、彩りのある形にしていく」という思いを表しています。

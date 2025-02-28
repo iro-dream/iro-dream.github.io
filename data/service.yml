@@ -1,38 +1,31 @@
 ---
 enable: true
-title: "Why Choose us?"
+title: "イロドリームが選ばれる理由"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+    イロドリームだけの特徴をご紹介
 services:
-  - name: "largest Network"
+  - name: "シームレスな対応"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+      海外拠点による24時間体制での対応
+    icon: "ti-control-forward"
+  - name: "コストの抑制"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+      代理店を介さない安価の実現
+    icon: "ti-dashboard"
+  - name: "ジャンルを問わない"
+    description: >
+      マイクロインフルエンサーから芸能人まで
+    icon: "ti-flag"
+  - name: "インフルエンサープール"
+    description: >
+      相談できるのは200名以上
+    icon: "ti-shopping-cart-full"
+  - name: "多国籍"
+    description: >
+      日本、韓国、中国、台湾など8カ国以上
+    icon: "ti-world"
+  - name: "A to Z 対応"
+    description: >
+      どんなプラットフォームでも企画から運用まで
     icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
 ---

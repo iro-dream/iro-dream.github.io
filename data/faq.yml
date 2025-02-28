@@ -1,21 +1,17 @@
 ---
 enable: true
-title: "Frequently Asked Questions"
+title: "韓国へのマーケティングでこんなお悩みありませんか?"
 faq:
-  - question: "Q. How do I apply?"
+  - question: "・韓国で自社の商品・サービスをPRしたい"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Where can I find out about funding?"
+      でも何からしていいかわからない
+  - question: "・マーケティングを強化することになっているが手が回っていない"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How can I make a change to my application?"
+      だから一緒に活動するパートナーを探している
+  - question: "・インフルエンサーマーケティングをしてみたい"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "Q. What are entry requirements?"
+      でも予算が足りない
+  - question: "・一度韓国のマーケティング会社・代理店に依頼した"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How do I get a reference?"
-    answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+      でも効果がイマイチだった
 ---
