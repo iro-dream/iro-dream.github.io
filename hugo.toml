@@ -22,10 +22,10 @@ weight = 3
 name = "Blog"
 url = "#blog"
 weight = 4
-[[menu.Main]]
-name = "FAQ"
-url = "#faq"
-weight = 5
+#[[menu.Main]]
+#name = "FAQ"
+#url = "#faq"
+#weight = 5
 [[menu.Main]]
 name = "Contact"
 url = "/contact/"
